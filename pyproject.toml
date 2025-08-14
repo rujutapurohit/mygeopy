@@ -3,8 +3,6 @@ name = "mygeopy"
 version = "0.0.1"
 description = "My Python package for working with geometry."
 authors = [{ name = "Rujuta Purohit", email = "rujuta200201@gmail.com" }]
-license = "MIT"
-license-file = ["LICENSE.txt"]
 
 [build-system]
 requires = ["setuptools", "setuptools-scm>=8.1"]
