@@ -1,3 +1,4 @@
+
 def hypot(a: float, b: float):
     """
     Compute the hypotenuese of a right triangle
