@@ -1,0 +1,9 @@
+[project]
+name = "mygeopy"
+version = "0.0.1"
+
+authors = [{ name = "Rujuta Purohit", email = "rujuta200201@gmail.com" }]
+
+[build-system]
+requires = ["setuptools", "setuptools-scm>=8.1"]
+build-backend = "setuptools.build_meta"
